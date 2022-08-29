@@ -5,6 +5,11 @@
 		<title>RAW.opml</title>
 	</head>
 <body>
+	<outline text="00. MyBlogs" title="00. MyBlogs">
+		<outline text="王一石" title="王一石" description="" type="rss" version="RSS" htmlUrl="https://yishi.io/feed/" xmlUrl="https://yishi.io/feed"/>
+		<outline text="Velaciela 不黑中医的牧师不是好股民" title="Velaciela 不黑中医的牧师不是好股民" description="" type="rss" version="RSS" htmlUrl="https://velaciela.ms/" xmlUrl="https://velaciela.ms/feed"/>
+		<outline text="随轩" title="随轩" description="" type="rss" version="RSS" htmlUrl="https://yilinhut.net/" xmlUrl="https://yilinhut.net/feed"/>
+	</outline>
 	<outline text="01. Project Updates" title="01. Project Updates">
 		<outline text="0x Blog - Medium" title="0x Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://blog.0xproject.com?source=rss----86e37ca8e375---4/" xmlUrl="https://blog.0xproject.com/feed"/>
 		<outline text="1inch exchange on Medium" title="1inch exchange on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@1inch-exchange?source=rss-c4f4cadf8a31------2" xmlUrl="https://medium.com/feed/@1inch-exchange"/>
