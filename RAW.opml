@@ -9,6 +9,19 @@
 		<outline text="王一石" title="王一石" description="" type="rss" version="RSS" htmlUrl="https://yishi.io/feed/" xmlUrl="https://yishi.io/feed"/>
 		<outline text="Velaciela 不黑中医的牧师不是好股民" title="Velaciela 不黑中医的牧师不是好股民" description="" type="rss" version="RSS" htmlUrl="https://velaciela.ms/" xmlUrl="https://velaciela.ms/feed"/>
 		<outline text="随轩" title="随轩" description="" type="rss" version="RSS" htmlUrl="https://yilinhut.net/" xmlUrl="https://yilinhut.net/feed"/>
+		<outline text="王一石Yishi的微博" title="王一石Yishi的微博" description="" type="rss" version="RSS" htmlUrl="https://www.weibo.com/u/7355578397/" xmlUrl="https://hub.slarker.me/weibo/user/7355578397"/>
+	</outline>
+	<outline text="00. MyMirror" title="00. MyMirror">
+		<outline text="不确定思维 — Mirror" title="不确定思维 — Mirror" description="" type="rss" version="RSS" htmlUrl="https://x.mirror.xyz/" xmlUrl="https://x.mirror.xyz/feed/atom"/>
+		<outline text="chaojijun — Mirror" title="chaojijun — Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x90c73B046474Ca1F7b06c60D913C1a97DbE2f08c/" xmlUrl="https://mirror.xyz/0x90c73B046474Ca1F7b06c60D913C1a97DbE2f08c/feed/atom"/>
+		<outline text="hao.cash — Mirror" title="hao.cash — Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x3E35759a899fa37b99E534D22dee30201e1c8888/" xmlUrl="https://mirror.xyz/0x3E35759a899fa37b99E534D22dee30201e1c8888/feed/atom"/>
+		<outline text="ksintmelody — Mirror" title="ksintmelody — Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xc19be75B8B9152d884987e1B58b3F18A94875396/" xmlUrl="https://mirror.xyz/0xc19be75B8B9152d884987e1B58b3F18A94875396/feed/atom"/>
+		<outline text="zhanglabs — Mirror" title="zhanglabs — Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/wangzhan.eth/" xmlUrl="https://mirror.xyz/wangzhan.eth/feed/atom"/>
+		<outline text="David Cai — Mirror" title="David Cai — Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x56706F118e42AE069F20c5636141B844D1324AE1/" xmlUrl="https://mirror.xyz/0x56706F118e42AE069F20c5636141B844D1324AE1/feed/atom"/>
+		<outline text="0xchainbreaker.eth — Mirror" title="0xchainbreaker.eth — Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xchainbreaker.eth/" xmlUrl="https://mirror.xyz/0xchainbreaker.eth/feed/atom"/>
+		<outline text="牛比特 — Mirror" title="牛比特 — Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/11223.eth/" xmlUrl="https://mirror.xyz/11223.eth/feed/atom"/>
+		<outline text="EthereumCN — Mirror" title="EthereumCN — Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/ethereumcn.eth/" xmlUrl="https://mirror.xyz/ethereumcn.eth/feed/atom"/>
+		<outline text="malatang — Mirror" title="malatang — Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/malatang.eth/" xmlUrl="https://mirror.xyz/malatang.eth/feed/atom"/>
 	</outline>
 	<outline text="01. Project Updates" title="01. Project Updates">
 		<outline text="0x Blog - Medium" title="0x Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://blog.0xproject.com?source=rss----86e37ca8e375---4/" xmlUrl="https://blog.0xproject.com/feed"/>
